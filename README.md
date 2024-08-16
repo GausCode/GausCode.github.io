@@ -23,11 +23,10 @@ Ich bin Vladimir Gaus, ein angehender Cybersecurity Analyst mit einer Leidenscha
 - **Screenshots/Code**:
   ![Screenshot von SysAuditPro](https://github.com/GausCode/SysAuditPro/blob/master/blob/main/screenshot.png)
   ```python
-  # Beispielcode für eine Funktion in SysAuditPro
+  
   import os
 
   def check_system_status():
-      # Überprüft den Systemstatus und gibt die Ergebnisse zurück
       status = os.system("systeminfo")
       return status
 
@@ -43,8 +42,9 @@ Ich bin Vladimir Gaus, ein angehender Cybersecurity Analyst mit einer Leidenscha
 -   **Meta Front-End Developer Professional Certificate**(https://coursera.org/verify/professional-cert/BJ6XTQEA6WCB)
 -   **Meta Back-End Developer Professional Certificate**(https://coursera.org/verify/professional-cert/RMJP9ZNCSN9F)
 -   **Python for Everybody Specialization**(https://coursera.org/verify/specialization/K5241Z9G4MNS)
+-   **Introduction to Cyber Security**(https://coursera.org/verify/specialization/QEID6ZH7ZHTY)
 
 
 Ich aktualisiere mein Portfolio regelmäßig, um neue Projekte und Zertifikate hinzuzufügen. Feedback und Verbesserungsvorschläge sind immer willkommen. Kontaktiere mich gerne unter venic89@gmail.com / wladig@hotmail.de.
 
-**Letztes Update:** 09.08.2024
+**Letztes Update:** 16.08.2024
