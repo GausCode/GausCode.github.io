@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/GausCode/GausCode.github.io/static/css/main.24183648.css",
-    "main.js": "/GausCode/GausCode.github.io/static/js/main.a7ab56dd.js",
-    "static/js/453.c8816f60.chunk.js": "/GausCode/GausCode.github.io/static/js/453.c8816f60.chunk.js",
-    "static/media/default_image.jpg": "/GausCode/GausCode.github.io/static/media/default_image.eb50987a354334cbf91b.jpg",
-    "index.html": "/GausCode/GausCode.github.io/index.html",
-    "main.24183648.css.map": "/GausCode/GausCode.github.io/static/css/main.24183648.css.map",
-    "main.a7ab56dd.js.map": "/GausCode/GausCode.github.io/static/js/main.a7ab56dd.js.map",
-    "453.c8816f60.chunk.js.map": "/GausCode/GausCode.github.io/static/js/453.c8816f60.chunk.js.map"
+    "main.css": "/static/css/main.24183648.css",
+    "main.js": "/static/js/main.bed2d7e2.js",
+    "static/js/453.c8816f60.chunk.js": "/static/js/453.c8816f60.chunk.js",
+    "static/media/default_image.jpg": "/static/media/default_image.eb50987a354334cbf91b.jpg",
+    "index.html": "/index.html",
+    "main.24183648.css.map": "/static/css/main.24183648.css.map",
+    "main.bed2d7e2.js.map": "/static/js/main.bed2d7e2.js.map",
+    "453.c8816f60.chunk.js.map": "/static/js/453.c8816f60.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.24183648.css",
-    "static/js/main.a7ab56dd.js"
+    "static/js/main.bed2d7e2.js"
   ]
 }
