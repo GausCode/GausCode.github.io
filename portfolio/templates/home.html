@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome to My Portfolio</title>
+    {% load static %}
+    <link rel="stylesheet" href="{% static 'css/style.css' %}">
+</head>
+<body>
+    <header>
+        <h1>Welcome to My Portfolio</h1>
+        <p>Explore my skills, projects, certificates, and more.</p>
+    </header>
+
+    <main>
+        <section>
+            <h2>API Links</h2>
+            <ul>
+                <li><a href="/api/skills/" target="_blank">Skills API</a></li>
+                <li><a href="/api/projects/" target="_blank">Projects API</a></li>
+                <li><a href="/api/certificates/" target="_blank">Certificates API</a></li>
+                <li><a href="/api/contact/" target="_blank">Contact Messages API</a></li>
+                <li><a href="/api/resume/" target="_blank">Resume API</a></li>
+            </ul>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 My Portfolio</p>
+    </footer>
+</body>
+</html>
