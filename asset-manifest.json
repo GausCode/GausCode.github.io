@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.02cd4ef0.css",
-    "main.js": "/static/js/main.4260820a.js",
+    "main.js": "/static/js/main.99fe0017.js",
     "static/js/453.4a91d8c7.chunk.js": "/static/js/453.4a91d8c7.chunk.js",
     "static/media/cybersecurity.mp4": "/static/media/cybersecurity.3318d2e02b2f74091627.mp4",
     "static/media/cybersecurity.webm": "/static/media/cybersecurity.4a5724ed61cb795f57da.webm",
     "static/media/profile.jpg": "/static/media/profile.b77642b8d917e49ecc79.jpg",
     "index.html": "/index.html",
     "main.02cd4ef0.css.map": "/static/css/main.02cd4ef0.css.map",
-    "main.4260820a.js.map": "/static/js/main.4260820a.js.map",
+    "main.99fe0017.js.map": "/static/js/main.99fe0017.js.map",
     "453.4a91d8c7.chunk.js.map": "/static/js/453.4a91d8c7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.02cd4ef0.css",
-    "static/js/main.4260820a.js"
+    "static/js/main.99fe0017.js"
   ]
 }
